@@ -1,0 +1,1 @@
+Folder ini berisi file datasheet yang digunakan pada naskah dan presentasi. Contoh file datasheet adalah file Excel yang berisi data hasil eksperimen. Contoh lain adalah datasheet yang diambil dari Internet.

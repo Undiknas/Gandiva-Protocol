@@ -1,0 +1,1 @@
+Folder ini berisi semua file gambar beserta mentahnya, file gambar yang dimaksud adalah file gambar yang digunakan di naskah Word dan Power Point. Termasuk file mentah seperti PSD jika menyunting menggunakan Photoshop, dan file mentah lainnya.
