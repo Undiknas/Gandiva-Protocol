@@ -44,11 +44,11 @@ Secara umum, struktur Gandiva Protocol adalah sebagai berikut:
 
 Terdapat dua folder utama, NASKAH dan PROJECT. Pada folder **naskah** berisi semua file yang terkait dengan proses penyusunan proposal, laporan, dan artikel skripsi. Proposal diperlukan untuk melakukan ujian proposal skripsi, laporan diperlukan untuk ujian utama skripsi, dan artikel diperlukan untuk melakukan publikasi laporan skripsi di jurnal TIERS atau jurnal lain yang bereputasi. Nama file yang berisi \[NIM\], \[NAMA\], \[TAHUN ANGKATAN\], dan \[TAHUN SKRIPSI\] diganti menjadi punya mahasiswa terkait. Contoh: **Dokumen Proposal Skripsi - 110010129 - I WAYAN ADITYA SURANATA - 2011 - 2015.docx**
 
-Pada folder **project**, berisi berbagai file dan kode program terkaid dengan projek skripsi yang dibuat. Struktur pada folder projek tidak terlalu strik, mahasiswa bisa merubah dan menggunakan strukturnya sendiri yang disesuaikan dengan jenis projek yang dibuat. Dengan catatan, disetiap folder disediakan file **README.md** yang berisi detail dan tujuan dari setiap folder yang dibuat.
+Pada folder **project**, berisi berbagai file dan kode program terkait dengan projek skripsi yang dibuat. Struktur pada folder projek tidak terlalu strik, mahasiswa bisa merubah dan menggunakan strukturnya sendiri yang disesuaikan dengan jenis projek yang dibuat. Dengan catatan, disetiap folder disediakan file **README.md** yang berisi detail dan tujuan dari setiap folder yang dibuat.
 
 > Ingat untuk menggunakan fitur .gitignore untuk menyembunyikan file yang bersifat rahasia.
 
-## Alur Pengerjaan Skripsi dengan Gandiva Protokol
+## Alur Pengerjaan Skripsi dengan Gandiva Protocol
 Secara umum, alur penggunaan Gandiva Protokol mirip dengan saat kita melakukan Fork Repository. Garis besarnya adalah sebagai berikut:
 
 - [X] Buat akun GitHub
@@ -57,9 +57,9 @@ Secara umum, alur penggunaan Gandiva Protokol mirip dengan saat kita melakukan F
 - [X] Clone hasil Fork dari Gandiva Protocol ke Laptop / Komputer pribadi
 - [X] Mulai proses bekerja di folder Gandiva Protocol dengan memilih branch sesuai jenis pekerjaan. Gunakan ISSUE yang diberikan oleh dosen pembimbing sebagai acuan membuat branch, dan **hindari bekerja di branch main**. Selalu buat branch baru sesuai jenis ISSUE atau jenis pekerjaan.
 - [X] Dosen pembimbing akan mengevaluasi ISSUE yang telah diberikan ke mahasiswa, dicek apakah mahasiswa sudah menyelesaikan ISSUE tersebut atau belum.
-- [X] Proses berlanjut diseputaran ISSUE, ISSUE disini bisa berbentuk instruksi dari dosen pembimbing untuk melakukan revisi, penambahan fitur, percobaan, dan sebagainya.
+- [X] Proses berlanjut diseputaran ISSUE, ISSUE disini bisa berbentuk instruksi dari dosen pembimbing untuk melakukan revisi, atau dari pribadi mahasiswa sendiri untuk tujuan penambahan fitur, percobaan, dan sebagainya.
 - [X] Lakukan proses merge ke branch utama di repo lokal pribadi setelah selesai dengan ISSUE atau branch khusus untuk memastikan branch main selalu menjadi branch yang paling up-to-date.
 
-Apabila terdapat update dari Repository Resmi Gandiva Protocol, lakukan sinkronisasi branch lokal yang telah difork sebelumnya, search caranya dengan **How To Ensure Your GitHub Fork Is Up To Date**.
+Apabila terdapat update dari Repository Resmi Gandiva Protocol di Akun Github Undiknas, lakukan sinkronisasi branch lokal yang telah difork sebelumnya, search caranya dengan **How To Ensure Your GitHub Fork Is Up To Date**.
 
 Untuk memberikan gambaran yang lebih jelas tentang alur penggunaan Gandiva Protocol, akan disediakan video podcast sebagai bahan referensi.
