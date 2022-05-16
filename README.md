@@ -52,7 +52,9 @@ Pada folder **project**, berisi berbagai file dan kode program terkait dengan pr
 Secara umum, alur penggunaan Gandiva Protokol mirip dengan saat kita melakukan Fork Repository. Garis besarnya adalah sebagai berikut:
 
 - [X] Buat akun GitHub
-- [X] Fork Gandiva Protocol ke akun pribadi
+- [X] Buat repository SKRIPSI, dan inisialisasi. **SET PRIVATE AGAR TIDAK DILIHAT OLEH PUBLIC!**
+- [X] Clone Gandiva Protocol ke akun pribadi, copy isinya ke repository SKRIPSI yang dibuat tadi.
+- [X] Mulai bekerja di repository SKRIPSI, commit, push.
 - [X] Tambahkan dosen pembimbing sebagai kolaborator
 - [X] Clone hasil Fork dari Gandiva Protocol ke Laptop / Komputer pribadi
 - [X] Mulai proses bekerja di folder Gandiva Protocol dengan memilih branch sesuai jenis pekerjaan. Gunakan ISSUE yang diberikan oleh dosen pembimbing sebagai acuan membuat branch, dan **hindari bekerja di branch main**. Selalu buat branch baru sesuai jenis ISSUE atau jenis pekerjaan.
