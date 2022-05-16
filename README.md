@@ -55,8 +55,7 @@ Secara umum, alur penggunaan Gandiva Protokol mirip dengan saat kita melakukan F
 - [X] Buat repository SKRIPSI, dan inisialisasi. **SET PRIVATE AGAR TIDAK DILIHAT OLEH PUBLIC!**
 - [X] Clone Gandiva Protocol ke akun pribadi, copy isinya ke repository SKRIPSI yang dibuat tadi.
 - [X] Mulai bekerja di repository SKRIPSI, commit, push.
-- [X] Tambahkan dosen pembimbing sebagai kolaborator
-- [X] Clone hasil Fork dari Gandiva Protocol ke Laptop / Komputer pribadi
+- [X] Tambahkan dosen pembimbing sebagai kolaborator ke repo SKRIPSI.
 - [X] Mulai proses bekerja di folder Gandiva Protocol dengan memilih branch sesuai jenis pekerjaan. Gunakan ISSUE yang diberikan oleh dosen pembimbing sebagai acuan membuat branch, dan **hindari bekerja di branch main**. Selalu buat branch baru sesuai jenis ISSUE atau jenis pekerjaan.
 - [X] Dosen pembimbing akan mengevaluasi ISSUE yang telah diberikan ke mahasiswa, dicek apakah mahasiswa sudah menyelesaikan ISSUE tersebut atau belum.
 - [X] Proses berlanjut diseputaran ISSUE, ISSUE disini bisa berbentuk instruksi dari dosen pembimbing untuk melakukan revisi, atau dari pribadi mahasiswa sendiri untuk tujuan penambahan fitur, percobaan, dan sebagainya.
