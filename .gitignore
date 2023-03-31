@@ -12,6 +12,7 @@ Icon?
 .AppleDouble
 .LSOverride
 .~lock.*
+.tmp.*
 
 # Icon must end with two \r
 Icon
